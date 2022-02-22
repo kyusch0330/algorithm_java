@@ -1,4 +1,4 @@
-package graph.union_find;
+package graph.dijkstra;
 
 public class AdjNode {
 	public int num;
