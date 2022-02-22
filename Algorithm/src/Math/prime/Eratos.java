@@ -1,4 +1,4 @@
-package Math.Prime;
+package Math.prime;
 
 public class Eratos {
 	public static int MAX_NUM = 1000001;

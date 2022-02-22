@@ -1,4 +1,4 @@
-package Graph;
+package graph.union_find;
 
 public class UnionFind {
 	public static int MAX_SIZE = 10;
