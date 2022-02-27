@@ -28,7 +28,7 @@ public class segmentTree {
 		nums = new int[] { 3, 7, 5, 1, 2, 9, 10, 99, 77, 42, 1000 };
 
 		int N = nums.length;
-		int h = (int) Math.ceil(Math.sqrt(N));
+		int h = (int) Math.ceil(Math.log(N)/Math.log(2)); // 로그2(N) 구하기
 		System.out.println("h : " + h);
 		tree = new int[(int) Math.pow(2, h + 1)];
 		System.out.println("N : " + N);
@@ -77,6 +77,7 @@ public class segmentTree {
 	}
 
 	// 세그먼트 트리 초기화
+	// current : 트리의 인덱스 , start,end : 배열의 인덱스
 	static int init(int start, int end, int current) {
 		if (start == end) {
 			// 구간이 1인 경우
