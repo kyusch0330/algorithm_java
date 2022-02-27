@@ -5,5 +5,10 @@
  - Priority Queue  
 ## Graph  
  - Union-find  
+ - Dijkstra  
+ - MST  
+   - Kruskal  
+ - Segment Tree  
 ## String
  - Trie  
+ - KMP  
