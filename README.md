@@ -10,6 +10,7 @@
  - MST  
    - Kruskal  
  - Segment Tree  
+ - Topological Sort  
 ## String
  - Trie  
  - KMP  
