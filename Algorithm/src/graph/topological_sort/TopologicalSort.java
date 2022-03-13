@@ -73,7 +73,7 @@ public class TopologicalSort {
 		while(!zeroQ.isEmpty()) {
 			
 			int zeroNode = zeroQ.poll();
-			indegree[zeroNode] = -1; // 다음부터 차수가 0인 노드에 포함되지 않게
+			//indegree[zeroNode] = -1; // 다음부터 차수가 0인 노드에 포함되지 않게 -> 할 필요 없다. 어차피 인접노드의 차수를 감소시키고 0인지 검사를 하기 때문에
 			res.add(zeroNode); // 결과에 포함
 			
 			// 현 노드를 선행으로 했던 노드들의 차수를 감소시켜준다.
