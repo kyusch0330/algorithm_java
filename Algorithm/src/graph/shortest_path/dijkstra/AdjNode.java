@@ -1,4 +1,4 @@
-package graph.dijkstra;
+package graph.shortest_path.dijkstra;
 
 public class AdjNode {
 	public int num;

@@ -1,4 +1,4 @@
-package graph.dijkstra;
+package graph.shortest_path.dijkstra;
 
 import java.io.*;
 import java.util.*;
