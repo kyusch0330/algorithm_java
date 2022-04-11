@@ -16,3 +16,7 @@
 ## String
  - Trie  
  - KMP  
+## Math  
+ - Prime  
+ - Combination    
+
