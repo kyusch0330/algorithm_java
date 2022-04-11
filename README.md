@@ -5,8 +5,10 @@
 ## Heap 
  - Priority Queue  
 ## Graph  
- - Union-find  
- - Dijkstra  
+ - Union-find
+ - Shortest Path  
+   - Dijkstra  
+   - Floyd-Warshall  
  - MST  
    - Kruskal  
  - Segment Tree  
