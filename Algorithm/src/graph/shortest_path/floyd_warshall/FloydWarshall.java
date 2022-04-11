@@ -82,6 +82,10 @@ public class FloydWarshall {
 					if(j==k || j==i) continue;
 					// i부터 j까지의 최단 거리는, i부터 경유지 k까지 최단거리 + k부터 도착지 j까지 최단거리와 비교해서 더 작은 쪽으로 갱신된다. 
 					dp[i][j] = Math.min(dp[i][j], dp[i][k] + dp[k][j]);  
+					/**
+					 * 가중치가 음수인 경우에 INF보다 작은 값이 저장되므로, 
+					 *  INF보다 작아지지 않도록 처리를 해주는 것이 좋다.
+					 */
 				}
 			}
 		}
