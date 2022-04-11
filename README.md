@@ -3,20 +3,20 @@
 ## DP  
  - [Knapsack](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/dp/Knapsack.java)  
 ## Heap 
- - Priority Queue  
+ - [Priority Queue] (https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/heap/Heap.java)  
 ## Graph  
- - Union-find
+ - [Union-find](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/union_find/UnionFind.java)
  - Shortest Path  
-   - Dijkstra  
-   - Floyd-Warshall  
+   - [Dijkstra](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/shortest_path/dijkstra/Dijkstra.java)  
+   - [Floyd-Warshall](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/shortest_path/floyd_warshall/FloydWarshall.java)  
  - MST  
-   - Kruskal  
- - Segment Tree  
- - Topological Sort  
+   - [Kruskal](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/mst/kruskal/Kruskal.java)  
+ - [Segment Tree](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/segment_tree/segmentTree.java)  
+ - [Topological Sort](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/topological_sort/TopologicalSort.java)  
 ## String
- - Trie  
- - KMP  
+ - [Trie](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/string/trie/Trie.java)  
+ - [KMP](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/string/kmp/KMP.java)  
 ## Math  
- - Prime  
- - Combination    
+ - [Prime](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/Math/prime/Eratos.java)  
+ - [Combination](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/Math/combination/Combination.java)    
 
