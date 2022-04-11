@@ -3,7 +3,7 @@
 ## DP  
  - [Knapsack](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/dp/Knapsack.java)  
 ## Heap 
- - [Priority Queue] (https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/heap/Heap.java)  
+ - [Priority Queue](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/heap/Heap.java)  
 ## Graph  
  - [Union-find](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/union_find/UnionFind.java)
  - Shortest Path  
