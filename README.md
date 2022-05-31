@@ -3,8 +3,9 @@
 ## DP  
  - [Knapsack](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/dp/Knapsack.java)  
  - [Edit Distance](https://github.com/kyuseop-choi/algorithm_java/blob/master/Algorithm/src/dp/EditDistane.java)  
-## Heap 
+## Tree 
  - [Priority Queue](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/heap/Heap.java)  
+ - [Segment Tree](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/segment_tree/segmentTree.java)  
 ## Graph  
  - [Union-find](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/union_find/UnionFind.java)
  - Shortest Path  
@@ -12,7 +13,6 @@
    - [Floyd-Warshall](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/shortest_path/floyd_warshall/FloydWarshall.java)  
  - MST  
    - [Kruskal](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/mst/kruskal/Kruskal.java)  
- - [Segment Tree](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/segment_tree/segmentTree.java)  
  - [Topological Sort](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/graph/topological_sort/TopologicalSort.java)  
 ## String
  - [Trie](https://github.com/kyusch0330/algorithm_java/blob/master/Algorithm/src/string/trie/Trie.java)  
